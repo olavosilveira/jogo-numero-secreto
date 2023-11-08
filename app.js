@@ -1,7 +1,7 @@
 // Variavel lista de números sorteados
 let listaDeNumerosSorteados = []; // iniciando lista vazia
 // Variavel limite de numero sorteado
-let numeroLimite = 100;
+let numeroLimite = 1000;
 
 // Função para exibir mensagem na tela
 function mensagemNaTela(tag, texto) {
